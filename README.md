@@ -13,6 +13,7 @@ This project utilizes a **Two-Phase Architecture**, separating the natural langu
 
 ## 🚀 Live Demo & Visualizations
 * **Interactive Data Visualizations (Phase 2):** https://colab.research.google.com/drive/1O-uPXIdGprXjfI8iFwtXmyDQZ_8i1-vq?usp=sharing
+* **Project Live On: https://global-air-quality-agent-xufwuwmotucwgrsnp8csqx.streamlit.app/
 
 ---
 
