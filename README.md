@@ -12,7 +12,7 @@ This project utilizes a **Two-Phase Architecture**, separating the natural langu
 ---
 
 ## 🚀 Live Demo & Visualizations
-* **Interactive Data Visualizations (Phase 2):** [Insert your Google Colab Link Here]
+* **Interactive Data Visualizations (Phase 2):** https://colab.research.google.com/drive/1O-uPXIdGprXjfI8iFwtXmyDQZ_8i1-vq?usp=sharing
 
 ---
 
@@ -31,8 +31,8 @@ Follow these steps to run the Streamlit AI Assistant on your local machine.
 ### 1. Clone the Repository
 Download the project files to your local machine:
 ```bash
-git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repo-Name].git
-cd [Your-Repo-Name]
+git clone [https://github.com/](https://github.com/)icrmth/Global-Air-Quality-Agent.git
+cd Global-Air-Quality-Agent
 ```
 ### 2. Set Up a Virtual Environment
 It is highly recommended to use a virtual environment to keep dependencies clean.
