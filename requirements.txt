@@ -2,3 +2,4 @@ pandas
 streamlit
 google-genai
 python-dotenv
+altair<5
