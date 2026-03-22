@@ -1,5 +1,6 @@
 pandas
 streamlit
+matplotlib
 google-genai
 python-dotenv
 altair<5
